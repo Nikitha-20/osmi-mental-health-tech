@@ -2,7 +2,7 @@
 
 MSDS 692 Data Science Practicum · Regis University · Fall 2026
 
-**Live dashboard:** https://osmi-mental-health-tech.streamlit.app
+**Live dashboard:** https://nikitha-mental-health-dashboard.streamlit.app/
 
 **Recommendation for HR:** fund mental health coverage for tech workers, and make sure employees know they have it. Of the three workplace factors HR controls, coverage is the only one tied to who actually seeks help.
 
@@ -148,7 +148,7 @@ The "without coverage" groups are small in 2018 (42 people) and 2019 (35), so th
 
 ## Dashboard
 
-**Live app:** https://osmi-mental-health-tech.streamlit.app
+**Live app:** https://nikitha-mental-health-dashboard.streamlit.app/
 
 No install needed. Open the link in a browser. To run it on your own computer instead, `streamlit run app.py` opens a dashboard where HR can filter by survey year and see the coverage gap, manager support and remote work rates.
 
